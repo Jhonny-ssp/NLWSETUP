@@ -9,8 +9,3 @@ export function Habit(props: HabitProps) {
         </div>
     )
 }
-
-
-
-
-//Aqui vai um teste de alteração
